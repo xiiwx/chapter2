@@ -1,0 +1,7 @@
+start
+
+new x number
+set x 18
+log string "Привет, мне" >> " " >>  x >> " " >> "лет"
+
+finish
