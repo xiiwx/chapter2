@@ -1,0 +1,8 @@
+start
+
+new x number
+set x 2 + 2 + 2
+
+log number x
+
+finish
